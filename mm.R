@@ -1,3 +1,5 @@
+#####
+
 xtr <- matrix(rnorm(100*100),ncol=100)
 xte <- matrix(rnorm(100000*100),ncol=100)
 beta <- c(rep(1,10),rep(0,90))
